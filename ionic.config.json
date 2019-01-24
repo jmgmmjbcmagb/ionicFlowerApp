@@ -1,7 +1,0 @@
-{
-  "name": "ionicFlowerApp",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
